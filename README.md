@@ -1,11 +1,11 @@
 
-# Catalyst Validations
+# DB Validations
 
 May 2021, Version 0.2
 
 ## Introduction
 
-Command line tool for validation of the Loeb and PKZ DB dumps in the CAE. It has two components:
+Command line tool for validation of the different DB dumps in the CAE. It has two components:
 
 1. check for changes in structure since last run (schema / empty columns)
 2. check of some data summaries for consistency compared to last run and between different tables.
