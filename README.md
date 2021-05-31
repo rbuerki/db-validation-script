@@ -17,7 +17,7 @@ It outputs the result of the checks to the console and to a timestamped logfile 
 After activating an env with the necessary dependencies (see section "build"), the app can be run from the main folder (containing this README file) by typing the following command in the CLI:
 
 ```python
-python src
+python validate
 ```
 
 ## Build
